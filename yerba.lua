@@ -53,12 +53,12 @@ getgenv().Krylon = {
     ['Camlock'] = {
         ['Enabled'] = true,
         ['Keybind'] = 'C',
-        ['Checks'] = {'Wall', 'Knocked', 'Grabbed', 'Vehicle'},
+        ['Checks'] = {'', 'Knocked', 'Grabbed', 'Vehicle'},
         ['Fov'] = 10,
         ['Show Fov'] = false,
         
         ['Value'] = {
-            ['Snappiness'] = 0.059,
+            ['Snappiness'] = 0.079,
             ['ThirdPerson'] = false,
             ['FirstPerson'] = true, 
         },
