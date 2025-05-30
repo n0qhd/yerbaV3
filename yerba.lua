@@ -1,4 +1,4 @@
-script_key = "TosUAkAOlASMrFOCIVDZbXDsLCqLMgPi"; -- add ur key here
+script_key = "TosUAkAOlASMrFOCIVDZbXDsLCqLMgPi"; 
 
 getgenv().Krylon = {
     ['Core'] = {
@@ -84,7 +84,7 @@ getgenv().Krylon = {
         },
         ['Keybind'] = {
             ['Bind'] = 'X',
-            ['Keybind Mode'] = 'Toggle' -- hold or toggle
+            ['Keybind Mode'] = 'Toggle' 
         },
         ['Delay'] = {    
             ['Value'] = 0.01,
@@ -99,7 +99,7 @@ getgenv().Krylon = {
         },
     },
     ['Range'] = {
-        ['Enabled'] = true, --- how far you want them to sense someone
+        ['Enabled'] = true, 
         ['Silent Aim'] = 250,
         ['Camlock'] = 250,
         ['Trigger bot'] = 250
